@@ -29,8 +29,6 @@ python evaluate_calendar_scheduling.py
 
 ## Citing this work
 
-Add citation details here, usually a pastable BibTeX snippet:
-
 ```latex
 @article{zheng2024naturalplanbenchmarkingllms,
       title={NATURAL PLAN: Benchmarking LLMs on Natural Language Planning},
